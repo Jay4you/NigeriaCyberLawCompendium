@@ -14,9 +14,13 @@ Understanding cybersecurity laws is crucial for anyone working in the digital sp
 ## 📂 Repository Structure
 
 🔹 Laws/ – Summaries of Nigerian cybersecurity laws.
+
 🔹 Case_Studies/ – Real-world applications and legal interpretations.
+
 🔹 Comparisons/ – How Nigerian laws compare to international standards.
+
 🔹 Resources/ – Links to official documents, reports, and legal texts.
+
 🔹 Contributions.md – Guidelines for contributors.
 
 ## ⚖️ License
@@ -28,8 +32,11 @@ You are free to share and adapt this work, as long as you give credit and distri
 ## 🤝 Contributions
 
 Contributions are welcome! If you have insights, case studies, or legal interpretations to add, feel free to:
+
 1️⃣ Fork this repository.
+
 2️⃣ Create a new branch for your updates.
+
 3️⃣ Submit a pull request with a clear description of your contribution.
 
 For suggestions or corrections, open an issue in the repository.
